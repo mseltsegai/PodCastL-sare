@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Title>
+  <Item>
+    <Namn>XvgRadio</Namn>
+    <Frekvens>5</Frekvens>
+    <Kategori>Spel</Kategori>
+    <URL>http://feeds.feedburner.com/XvgmRadio</URL>
+    <Avsnitt>13</Avsnitt>
+  </Item>
+  <Item>
+    <Namn>Nyheter</Namn>
+    <Frekvens>10</Frekvens>
+    <Kategori>Nyhet</Kategori>
+    <URL>http://www.aftonbladet.se/nyheter/rss.xml</URL>
+    <Avsnitt>30</Avsnitt>
+  </Item>
+  <Item>
+    <Namn>Sportblad</Namn>
+    <Frekvens>5</Frekvens>
+    <Kategori>Spel</Kategori>
+    <URL>http://www.aftonbladet.se/sportbladet/rss.xml</URL>
+    <Avsnitt>0</Avsnitt>
+  </Item>
+</Title>

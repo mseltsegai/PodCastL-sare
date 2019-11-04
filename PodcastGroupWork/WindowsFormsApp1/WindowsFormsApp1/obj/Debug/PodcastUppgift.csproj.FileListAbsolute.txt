@@ -1,0 +1,29 @@
+C:\Users\Filip\source\repos\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Filip\source\repos\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Filip\source\repos\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Filip\source\repos\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PodcastUppgift.csprojAssemblyReference.cache
+C:\Users\Filip\source\repos\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Filip\source\repos\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Filip\source\repos\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PodcastUppgift.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PodcastUppgift.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Filip\source\repos\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Downloads\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Downloads\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Downloads\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Downloads\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PodcastUppgift.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Downloads\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Downloads\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PodcastUppgift.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PodcastUppgift.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Downloads\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\msely\OneDrive\Dokument\BitLord\Bilder-DESKTOP-12CI5QI\Örebro Uni\System\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\msely\OneDrive\Dokument\BitLord\Bilder-DESKTOP-12CI5QI\Örebro Uni\System\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\msely\OneDrive\Dokument\BitLord\Bilder-DESKTOP-12CI5QI\Örebro Uni\System\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\msely\OneDrive\Dokument\BitLord\Bilder-DESKTOP-12CI5QI\Örebro Uni\System\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PodcastUppgift.csprojAssemblyReference.cache
+C:\Users\msely\OneDrive\Dokument\BitLord\Bilder-DESKTOP-12CI5QI\Örebro Uni\System\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\msely\OneDrive\Dokument\BitLord\Bilder-DESKTOP-12CI5QI\Örebro Uni\System\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\msely\OneDrive\Dokument\BitLord\Bilder-DESKTOP-12CI5QI\Örebro Uni\System\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PodcastUppgift.csproj.GenerateResource.cache
+C:\Users\msely\OneDrive\Dokument\BitLord\Bilder-DESKTOP-12CI5QI\Örebro Uni\System\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\msely\OneDrive\Dokument\BitLord\Bilder-DESKTOP-12CI5QI\Örebro Uni\System\Grupp22PodcastProjektKomplettering\PodcastGroupWork\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
